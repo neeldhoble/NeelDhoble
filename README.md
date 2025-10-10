@@ -1,13 +1,15 @@
 <!-- 💜 NEEL DHOBLE | PURPLE-THEMED MINIMAL & ELEGANT GITHUB PROFILE README 💜 -->
 
-<!-- Animated Header -->
+<!-- 💜 Animated Header (Fixed + Gradient) 💜 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=B57DFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Neel+Dhoble+👋;MERN+Stack+Developer+💻;Cloud+%26+AI+Explorer+☁️;Creative+Tech+Mind+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=9C6ADE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Neel+Dhoble+👋;MERN+Stack+Developer+💻;Cloud+%26+AI+Explorer+☁️;Creative+Tech+Mind+🚀" alt="Typing Animation" />
 </h1>
 
+<!-- Gradient Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=B57DFF&height=90&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:B57DFF&height=100&section=header&text=Welcome+to+My+GitHub+Profile!+💜&fontSize=24&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </p>
+
 
 ---
 
