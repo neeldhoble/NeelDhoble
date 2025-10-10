@@ -1,7 +1,13 @@
+<!-- 💜 NEEL DHOBLE | PURPLE-THEMED MINIMAL & ELEGANT GITHUB PROFILE README 💜 -->
+
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=9C6ADE&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Neel+Dhoble+👋;MERN+Stack+Developer+💻;Cloud+%26+AI+Enthusiast+☁️;Tech+Explorer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=B57DFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Neel+Dhoble+👋;MERN+Stack+Developer+💻;Cloud+%26+AI+Explorer+☁️;Creative+Tech+Mind+🚀" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=B57DFF&height=90&section=header"/>
+</p>
 
 ---
 
@@ -10,27 +16,37 @@
 🎓 **Final Year CSBS Student (Batch 2026)**  
 **St. Vincent Pallotti College of Engineering & Technology, Nagpur**  
 
-💻 Passionate **MERN Stack Developer** skilled in building scalable, responsive, and real-world web applications.  
-☁️ Exploring **AWS, DevOps**, and **AI-powered** solutions to bridge innovation with impact.  
-
-✨ _“I believe in learning by creating and solving problems that matter.”_  
+💻 I’m a **MERN Stack Developer** passionate about designing digital experiences that blend **creativity and logic**.  
+🚀 My mission: Build scalable, intelligent, and impactful solutions for real-world problems.  
+🌱 Currently exploring **AWS**, **DevOps**, and **AI-powered full-stack solutions**.  
+🎯 Goal: To become a **versatile full-stack & cloud developer** capable of shaping tomorrow’s tech landscape.
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,postgresql,cpp,python,java,git,github,docker,aws,postman,figma,powerbi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postgres,python,cpp,java,aws,docker,git,github,postman,figma,powerbi&perline=9" />
 </p>
 
 ---
 
-## 🧠 What I’m Working On  
+## 🚀 Featured Projects  
 
-- ⚙️ **Project IRIS** – RegTech Forensic Tool using Flask + React + PostgreSQL  
-- 🤖 **TrustChain** – Deepfake Detection using XceptionNet + FastAPI + MongoDB  
-- 💬 **Real-Time Chat App** – MERN + Socket.IO with live user status  
-- 🌍 **MyRoute** – Gamified Eco-Travel platform rewarding sustainable choices  
+### 🔹 [InterviewMaster](https://github.com/neeldhoble/InterviewMaster)
+💬 AI-powered mock interview platform using NLP and React to provide intelligent feedback.
+
+### 🔹 [IRIS - Forensic Tool](https://github.com/neeldhoble/IRIS1)
+🔍 RegTech system automating corporate financial forensics using Flask, React, and PostgreSQL.
+
+### 🔹 [Chat App (Live)](https://chat-app-2wok.onrender.com/)
+💬 Real-time chat platform using MERN stack + Socket.IO, featuring typing status & authentication.
+
+### 🔹 [MyRoute]
+🛣️ Gamified eco-travel web app rewarding users for sustainable transport choices.
+
+### 🔹 [TrustChain]
+🤖 AI-powered deepfake detection system using XceptionNet, FastAPI, and MongoDB.
 
 ---
 
@@ -38,62 +54,51 @@
 
 **🚀 Web Developer Intern – Spark To Ideas (Remote)**  
 📆 *May 2025 – June 2025*  
-- Built responsive full-stack apps using React, Node.js, and MongoDB  
-- Integrated APIs, handled state with Redux, and deployed scalable builds  
-- Collaborated in Agile sprints using Git, Postman & CI/CD  
+- Built responsive full-stack apps using React, Node.js, MongoDB, and Tailwind CSS  
+- Managed REST API integration & Redux state  
+- Collaborated in Agile sprints using Git and Postman  
 
 ---
 
-## 🏆 Achievements  
+## 🏅 Achievements  
 
-🏅 **1st Prize – AiExplore Hackathon (TGPCET, Nagpur)**  
-🥈 **TechSaksham Regional Showcase – Microsoft & SAP CSR Initiative (Pune)**  
-🎖️ **Codsoft Internship Certificate – Web Development**
-
----
-
-## 🧾 Certifications  
-
-- 🖥️ **MERN Stack Development – Edunet Foundation**  
-- ☕ **Java Certification – MKCL**  
-- ☁️ **Cloud Computing with AWS – Internshala**  
-- 📊 **Data Analyst – Udemy**
+🏆 **1st Prize – AiExplore Hackathon (TGPCET, Nagpur)**  
+🎖️ **TechSaksham Regional Showcase – Microsoft & SAP (Pune)**  
+💻 **Codsoft Internship Certificate – Web Development**
 
 ---
 
-## 📊 GitHub Stats  
+## 📜 Certifications  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neeldhoble&show_icons=true&theme=purple&title_color=9C6ADE&icon_color=9C6ADE&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeldhoble&theme=purple-dark&ring=9C6ADE&fire=9C6ADE&currStreakLabel=9C6ADE" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeldhoble&layout=compact&theme=purple&title_color=9C6ADE&text_color=c9d1d9&bg_color=0d1117" width="48%" alt="Top Languages" />
-</p>
-
----
-
-## ⚡ Fun Extras  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neeldhoble&theme=tokyonight&no-frame=true&row=1&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeldhoble&theme=react-dark&color=9C6ADE&line=9C6ADE&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
-</p>
+- 🖥️ MERN Stack Development – *Edunet Foundation*  
+- ☕ Java – *MKCL*  
+- ☁️ Cloud Computing with AWS – *Internshala*  
+- 📊 Data Analyst – *Udemy*
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:neeldhoble2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/neel-dhoble-965388257"><img src="https://img.shields.io/badge/LinkedIn-9C6ADE?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/neeldhoble"><img src="https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:neeldhoble2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-B57DFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/neel-dhoble-965388257"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/neeldhoble"><img src="https://img.shields.io/badge/GitHub-5E17EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="center">💜 “Code. Create. Conquer.” — Neel Dhoble 🚀</h3>
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=neeldhoble&data=followers,repositories,stars&theme=purple_shadow" alt="Profile Widget" />
+</p>
+
+---
+
+<h3 align="center">
+  💜 “Turning ideas into impactful code — one innovation at a time.” 💜  
+  <br/>
+  — <b>Neel Dhoble 🚀</b>
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57DFF&height=100&section=footer"/>
+</p>
