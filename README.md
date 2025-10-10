@@ -90,8 +90,10 @@
 
 ## 📈 GitHub Activity  
 
+## ⏰ Coding Activity by Hours  
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeldhoble&theme=github_dark_dimmed&utcOffset=5.5" alt="Neel Dhoble's Coding Hours Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeldhoble&theme=github_dark&utcOffset=5.5" alt="Neel Dhoble's Coding Hours Graph"/>
 </p>
 
 
