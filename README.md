@@ -10,7 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:B57DFF&height=100&section=header&text=Welcome+to+My+GitHub+Profile!+💜&fontSize=24&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </p>
 
-
 ---
 
 ## 💫 About Me  
@@ -89,6 +88,14 @@
 
 ---
 
+## 📈 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeldhoble&bg_color=0d1117&color=B57DFF&line=7B2CBF&point=B57DFF&area=true&hide_border=true" alt="Neel Dhoble's GitHub Activity Graph" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=neeldhoble&data=followers,repositories,stars&theme=purple_shadow" alt="Profile Widget" />
 </p>
@@ -96,11 +103,12 @@
 ---
 
 <h3 align="center">
-  💜 “Turning ideas into impactful code — one innovation at a time.” 💜  
+  💜 “Transforming ideas into impactful solutions through innovation and code.” 💜  
   <br/>
-  — <b>Neel Dhoble </b>
+  — <b>Neel Dhoble</b>
 </h3>
 
+<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B57DFF&height=100&section=footer"/>
 </p>
