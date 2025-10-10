@@ -91,10 +91,8 @@
 ## 📈 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeldhoble&theme=github_dark_dimmed&utcOffset=5.5" alt="Neel Dhoble's Coding Hours Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeldhoble&bg_color=0d1117&color=B57DFF&line=7B2CBF&point=B57DFF&area=true&hide_border=true" alt="Neel Dhoble's GitHub Activity Graph" />
 </p>
-
-
 
 ---
 
