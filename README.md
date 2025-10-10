@@ -98,7 +98,7 @@
 <h3 align="center">
   💜 “Turning ideas into impactful code — one innovation at a time.” 💜  
   <br/>
-  — <b>Neel Dhoble 🚀</b>
+  — <b>Neel Dhoble </b>
 </h3>
 
 <p align="center">
