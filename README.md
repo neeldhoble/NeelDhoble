@@ -1,9 +1,9 @@
 <!-- 💜 NEEL DHOBLE | PURPLE-THEMED MINIMAL & ELEGANT GITHUB PROFILE README 💜 -->
 
 <!-- 💜 Animated Header (Fixed + Gradient) 💜 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=9C6ADE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Neel+Dhoble+👋;MERN+Stack+Developer+💻;Cloud+%26+AI+Explorer+☁️;Creative+Tech+Mind+🚀" alt="Typing Animation" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9F00FF&center=true&vCenter=true&width=550&lines=I'm+Neel+Dhoble;MERN+Stack+Developer;AI+%7C+DevOps+Enthusiast;Full+Stack+and+Cloud+Explorer" alt="Typing Animation" />
+</p>
 
 <!-- Gradient Wave Header -->
 <p align="center">
