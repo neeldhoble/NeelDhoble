@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Tech Arsenal  
+## 🧠 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,postgres,python,cpp,java,aws,docker,git,github,postman,figma,powerbi&perline=9" />
