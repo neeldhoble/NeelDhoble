@@ -2,7 +2,7 @@
 
 <!-- 💜 Animated Header (Fixed + Gradient) 💜 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9F00FF&center=true&vCenter=true&width=550&lines=I'm+Neel+Dhoble;MERN+Stack+Developer;AI+%7C+DevOps+Enthusiast;Full+Stack+and+Cloud+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=600&color=9F00FF&center=true&vCenter=true&width=550&lines=I'm+Neel+Dhoble;MERN+Stack+Developer;AI+%7C+DevOps+Enthusiast;Full+Stack+and+Cloud+Explorer" alt="Typing Animation" />
 </p>
 
 <!-- Gradient Wave Header -->
