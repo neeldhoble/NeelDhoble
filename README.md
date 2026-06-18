@@ -34,7 +34,7 @@
 
 ## 💼 Experience  
 
-### 🚀 Junior Software Engineer – Wynisco (Remote)
+### 🚀 Junior Software Engineer – Wynisco (On-Site)
 📆 *June 2026 – Present*
 
 - Engineering and maintaining production-grade web applications using **Next.js, React, TypeScript, Tailwind CSS, and Node.js**
