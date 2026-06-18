@@ -32,6 +32,22 @@
 
 ---
 
+## 💼 Experience  
+
+### 🚀 Junior Software Engineer – Wynisco (Remote)
+📆 *June 2026 – Present*
+
+- Engineering and maintaining production-grade web applications using **Next.js, React, TypeScript, Tailwind CSS, and Node.js**
+- Transforming Figma designs into responsive, accessible, and pixel-perfect user interfaces with a strong focus on user experience
+- Developing reusable, scalable, and maintainable component architectures to accelerate product development
+- Integrating REST APIs and implementing end-to-end features across the frontend and backend stack
+- Collaborating with founders and developers through **Git, GitHub, Pull Requests, and code reviews** to ensure high-quality software delivery
+- Optimizing application performance, SEO, and responsiveness across desktop, tablet, and mobile platforms
+- Debugging complex issues, improving code quality, and contributing to continuous product enhancements
+- Working in an agile startup environment, delivering impactful features and scalable solutions aligned with business objectives
+
+---
+
 ## 🚀 Featured Projects  
 
 ### 🔹 [InterviewMaster](https://github.com/neeldhoble/InterviewMaster)
