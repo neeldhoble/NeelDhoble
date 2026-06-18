@@ -48,6 +48,25 @@
 
 ---
 
+### 🚀 Full Stack Developer Intern – CubeSpace (Remote)
+📆 *Jan 2026 – May 2026*
+
+ - Built responsive websites using React, Node.js, MongoDB, Tailwind CSS, and WordPress (Elementor).
+ - Optimized website performance, SEO, and loading speed using WordPress plugins and best practices.
+ - Configured plugins for security, caching, and analytics to improve site reliability and performance.
+
+
+---
+
+### 🚀 Web Developer Intern – Spark To Ideas (Remote)
+📆 *May 2025 – June 2025*
+
+- Built responsive full-stack applications using React, Node.js, MongoDB, and Tailwind CSS
+- Managed REST API integrations and Redux state management
+- Collaborated in Agile sprints using Git, GitHub, Postman, and team workflows
+
+---
+
 ## 🚀 Featured Projects  
 
 ### 🔹 [InterviewMaster](https://github.com/neeldhoble/InterviewMaster)
